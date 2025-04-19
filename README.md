@@ -11,6 +11,8 @@
 
 💬 Ask me about:
 
+OpenAI - Chatbot
+
 Backend with Node.js, NestJS
 
 Frontend with React.js, Next.js
