@@ -34,6 +34,6 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ajithm12aji&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=ajithm12aji&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ajith11223&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Ajith11223&theme=radical)
 
