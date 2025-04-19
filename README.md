@@ -30,10 +30,4 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?logo=azure-devops&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Ajith11223&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=Ajith11223&theme=radical)
 
