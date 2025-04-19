@@ -19,7 +19,7 @@ Databases like MongoDB, PostgreSQL
 
 Cloud services (AWS, GCP), CI/CD pipelines, and infrastructure as code
 
-📫 How to reach me: ajithm12aji@gmail.com | [LinkedIn] | [Twitter/GitHub Discussions/etc.]
+📫 How to reach me: ajithm12aji@gmail.com | https://www.linkedin.com/in/ajith-m-480a42236
 
 ⚡ Fun fact: I started coding with JavaScript and never looked back — I love building elegant, real-time apps with a focus on performance and developer experience.
 
